@@ -116,8 +116,11 @@ purposes.
 * **Probability calibration** to test whether the confidence is trustworthy and not just the ranking.
 * Precision depends on how common IDC-positive patches are, and the test set is only 19.3% positive.
 
-<img src="images/roc_pr_curves.png" alt="ROC and precision-recall curves" width="45%">
-<img src="images/confusion_matrix.png" alt="confusion matrix" width="50%">
+<p align="center">
+<img src="images/roc_pr_curves.png" alt="ROC and precision-recall curves" width="55%">
+
+<p align="center">
+<img src="images/confusion_matrix.png" alt="confusion matrix" width="55%">
 <p align="center">
 <img src="images/threshold_analysis.png" alt="Threshold Analysis" width="55%">
 
